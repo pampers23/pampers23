@@ -19,6 +19,3 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.facebook.com/https://www.facebook.com/lancebrixter.mendoza.3" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
 <a target="_blank" href="https://www.instagram.com/https://www.instagram.com/lance_brixter_mendoza/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pampers23&show_icons=true&locale=en" alt="pampers23" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pampers23&" alt="pampers23" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pampers23&show_icons=true&locale=en&layout=compact" alt="pampers23" /></p>
